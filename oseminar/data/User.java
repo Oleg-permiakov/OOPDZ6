@@ -2,7 +2,7 @@ package oseminar.data;
 
 import java.time.LocalDate;
 
-public class User {
+public class User {   // Реализован принцип OCP
     private String firstName;
     private String secondName;
     private String patronymic;

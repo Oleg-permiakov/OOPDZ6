@@ -3,7 +3,7 @@ package oseminar.data;
 import java.time.LocalDate;
 import java.util.Comparator;
 
-public class Teacher extends User{
+public class Teacher extends User{ // Реализован принцип SRP. Класс отвечает только за создание Преподавателя
 
     private Long teacherId;
 

@@ -10,7 +10,7 @@ import java.time.LocalDate;
 import java.util.Collections;
 import java.util.List;
 
-public class StudentController implements UserController<Student>{
+public class StudentController implements UserController<Student>{ // Реализован принцип ICP
 
     private final StudentService dataService = new StudentService();
     private final StudentGroupService studentGroupService = new StudentGroupService();

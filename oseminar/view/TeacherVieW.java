@@ -1,8 +1,10 @@
 package oseminar.view;
 
+import java.util.logging.Logger;
+
 import oseminar.data.User;
 
-public class TeacherVieW <T extends User> {
+public class TeacherVieW <T extends User> { //Реализован принцип ISP.
     
     Logger logger = Logger.getLogger(TeacherVieW.class.getName());
 

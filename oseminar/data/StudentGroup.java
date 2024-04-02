@@ -2,7 +2,7 @@ package oseminar.data;
 
 import java.util.List;
 
-public class StudentGroup implements Iterable<Student>{
+public class StudentGroup implements Iterable<Student>{ 
     private List<Student> students;
     private Teacher teacher;
 

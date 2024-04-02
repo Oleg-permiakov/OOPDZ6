@@ -10,7 +10,7 @@ import java.util.Collections;
 import java.util.Iterator;
 import java.util.List;
 
-public class StudentGroupService {
+public class StudentGroupService { // Реализован прицип SRP. Класс используется только для создания группы
     private StudentGroup studentGroup;
 
     public void createStudentGroup(Teacher teacher, List<Student> students) {
