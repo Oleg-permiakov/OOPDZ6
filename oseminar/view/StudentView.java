@@ -1,7 +1,7 @@
-package ru.gb.oseminar.view;
+package oseminar.view;
 
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.StudentGroup;
+import oseminar.data.Student;
+import oseminar.data.StudentGroup;
 
 import java.util.List;
 import java.util.logging.Logger;

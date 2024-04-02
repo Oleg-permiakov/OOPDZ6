@@ -1,10 +1,8 @@
-package ru.gb.oseminar.service;
+package oseminar.service;
 
-package ru.gb.oseminar.service;
-
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.Teacher;
-import ru.gb.oseminar.data.User;
+import oseminar.data.Student;
+import oseminar.data.Teacher;
+import oseminar.data.User;
 
 import java.time.LocalDate;
 import java.util.ArrayList;

@@ -1,9 +1,9 @@
-package ru.gb.oseminar.service;
+package oseminar.service;
 
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.UserComparator;
-import ru.gb.oseminar.data.StudentGroup;
-import ru.gb.oseminar.data.Teacher;
+import oseminar.data.Student;
+import oseminar.data.UserComparator;
+import oseminar.data.StudentGroup;
+import oseminar.data.Teacher;
 
 import java.util.ArrayList;
 import java.util.Collections;

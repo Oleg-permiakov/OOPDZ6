@@ -1,4 +1,4 @@
-package ru.gb.oseminar.data;
+package oseminar.data;
 
 import java.util.Iterator;
 import java.util.List;

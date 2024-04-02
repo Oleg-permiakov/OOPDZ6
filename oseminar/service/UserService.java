@@ -1,9 +1,9 @@
-package ru.gb.oseminar.service;
+package oseminar.service;
 
 import java.time.LocalDate;
 import java.util.List;
 
-import ru.gb.oseminar.data.User;
+import oseminar.data.User;
 
 public interface UserService<T extends User> {
     List<T> getAll();

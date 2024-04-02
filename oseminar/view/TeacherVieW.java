@@ -1,6 +1,6 @@
-package ru.gb.oseminar.view;
+package oseminar.view;
 
-import ru.gb.oseminar.data.User;
+import oseminar.data.User;
 
 public class TeacherVieW <T extends User> {
     

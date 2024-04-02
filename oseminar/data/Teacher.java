@@ -1,4 +1,4 @@
-package ru.gb.oseminar.data;
+package oseminar.data;
 
 import java.time.LocalDate;
 import java.util.Comparator;

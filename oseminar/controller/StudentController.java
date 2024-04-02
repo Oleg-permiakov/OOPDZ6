@@ -1,10 +1,10 @@
-package ru.gb.oseminar.controller;
+package oseminar.controller;
 
-import ru.gb.oseminar.data.Student;
-import ru.gb.oseminar.data.Teacher;
-import ru.gb.oseminar.service.StudentGroupService;
-import ru.gb.oseminar.service.StudentService;
-import ru.gb.oseminar.view.StudentView;
+import oseminar.data.Student;
+import oseminar.data.Teacher;
+import oseminar.service.StudentGroupService;
+import oseminar.service.StudentService;
+import oseminar.view.StudentView;
 
 import java.time.LocalDate;
 import java.util.Collections;
